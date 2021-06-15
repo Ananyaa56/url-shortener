@@ -28,15 +28,12 @@ This is a url shortening service built using MongoDB, Express.js, Node.js and Bo
 - MongoDB
 - Express.js
 - Node.js
-- EJS Templating Engine
+- HTML, CSS, Bootstrap
 
 ### Check out the deployed application at:
 
 - https://urlshortener71220.herokuapp.com/
 
-### Miscellaneous
-
-- It is being used by multiple student societies / clubs in my college with the short urls receving thousands of clicks till date.
 
 #### Contributiong
 
